@@ -1,0 +1,3 @@
+- pkg:npm/3_custom-module@1.0.0
+- pkg:npm/3_custom-module@2.0.0
+- pkg:npm/3_custom-module@3.0.0
